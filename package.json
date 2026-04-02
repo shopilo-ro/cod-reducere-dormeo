@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-dormeo",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Dormeo de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-dormeo",
+    "voucher-dormeo",
+    "cupon-dormeo",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/dormeo.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-dormeo.git"
+  }
+}
